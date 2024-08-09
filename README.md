@@ -3,6 +3,8 @@
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of Costco's sales performance, highlighting key financial metrics, product segment success, and geographic sales distribution over time. Designed to enable stakeholders to quickly gauge business health and operational success, this dashboard serves as a crucial tool for strategic decision-making.
 
+![image](costcoSales.png)
+
 ## Key Insights
 ### Financial Performance Metrics
 * Sales Growth: Tracks total sales and gross sales with year-over-year growth percentages, offering a snapshot of overall business growth.
